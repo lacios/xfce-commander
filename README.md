@@ -20,6 +20,7 @@ Features (current wishlit)
 	- Favorite apps launchers;
 	- Currently running programs in all workspaces;
 	- Tasks as a set of folders, documents and programs;
+	- System updates
 	
 . Can be used as desktop background and brought
   to front when needed, or launched by keyboard
@@ -33,5 +34,6 @@ Features (current wishlit)
 . Built-in terminal emulator.
 
 . Search and run/open programs, files and folders.
+
 
 ```
