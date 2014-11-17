@@ -22,8 +22,8 @@ Features (current wishlit)
 	- Tasks as a set of folders, documents and programs;
 	
 . Can be used as desktop background and brought
-  to front when needed, or launched by any kind
-  of shortcut, brightside, or panel launcher.
+  to front when needed, or launched by keyboard
+  shortcut, brightside, or panel launcher.
   
 . Can open sites, web searchs and web apps 
   in its own interface.
